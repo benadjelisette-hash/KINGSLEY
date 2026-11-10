@@ -1,0 +1,6 @@
+{
+  "name": "AgriConseil - Conseil & Gestion Agricole",
+  "description": "Plateforme complète de gestion d'exploitations agricoles, parcelles, récoltes, cours des marchés et diagnostic agronomique en Côte d'Ivoire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
